@@ -1,0 +1,10 @@
+:root {
+  --cor-barra: #d94218;
+  --co-principal: #591b0a;
+}
+body {
+  margin: 0;
+}
+.container {
+  max-width: 1140px;
+}
